@@ -14,6 +14,18 @@ This is a responsive, full-stack Practo-like application built with **Next.js Ap
 
 - Frontend: Next.js 14 (App Router), Tailwind CSS
 - Backend: Node.js (via Next.js API routes)
-  
+
+
+## How to Run Locally
+
+Clone the repoa
+
+```bash
+git clone https://github.com/ChemicalSalt/practo.git
+cd practo
+npm install
+npm run dev
+
 ## Live Link
+
 [Vercel](https://vercel.com)
