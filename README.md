@@ -18,14 +18,14 @@ This is a responsive, full-stack Practo-like application built with **Next.js Ap
 
 ## How to Run Locally
 
-Clone the repoa
+Clone the repo
 
 ```bash
 git clone https://github.com/ChemicalSalt/practo.git
 cd practo
 npm install
 npm run dev
-
+```
 ## Live Link
 
 [Vercel](https://vercel.com)
