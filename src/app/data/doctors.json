@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sheelavathi Natraj",
+    "specialty": "Dermatologist",
+    "experience": "21 years experience",
+    "location": "JP Nagar, Bangalore",
+    "clinic": "Sapphire Skin And Aesthetics Clinic",
+    "consultationFee": "₹800",
+    "rating": "94%",
+    "patientStories": 1506,
+    "availableToday": true,
+    "type": "doctor"
+  
+  },
+  {
+    "id": 2,
+    "name": "Manipal Hospital",
+    "specialty": "Multispecialty",
+    "experience": "",
+    "location": "Old Airport Road, Bangalore",
+    "clinic": "Manipal Hospital",
+    "consultationFee": "₹700 onwards",
+    "rating": "98%",
+    "patientStories": 3200,
+    "availableToday": true,
+    "type": "hospital"
+    
+  },
+  {
+    "id": 3,
+    "name": "Dr. Suresh Reddy",
+    "specialty": "Cardiologist",
+    "experience": "18 years experience",
+    "location": "Indiranagar, Bangalore",
+    "clinic": "HeartCare Clinic",
+    "consultationFee": "₹1000",
+    "rating": "95%",
+    "patientStories": 850,
+    "availableToday": false,
+    "type": "doctor"
+    
+  },
+  {
+    "id": 4,
+    "name": "Apollo Clinic",
+    "specialty": "Multispecialty",
+    "experience": "",
+    "location": "Koramangala, Bangalore",
+    "clinic": "Apollo",
+    "consultationFee": "₹600 onwards",
+    "rating": "93%",
+    "patientStories": 1900,
+    "availableToday": true,
+    "type": "clinic"
+    
+  },
+  {
+    "id": 5,
+    "name": "Dr. Priya Singh",
+    "specialty": "Gynecologist",
+    "experience": "12 years experience",
+    "location": "HSR Layout, Bangalore",
+    "clinic": "Women’s Health Clinic",
+    "consultationFee": "₹750",
+    "rating": "92%",
+    "patientStories": 670,
+    "availableToday": true,
+    "type": "doctor"
+   
+  },
+  {
+    "id": 6,
+    "name": "Fortis Hospital",
+    "specialty": "Multispecialty",
+    "experience": "",
+    "location": "Bannerghatta Road, Bangalore",
+    "clinic": "Fortis",
+    "consultationFee": "₹1000 onwards",
+    "rating": "97%",
+    "patientStories": 4300,
+    "availableToday": true,
+    "type": "hospital"
+    
+  },
+  {
+    "id": 7,
+    "name": "Dr. Anand Mehta",
+    "specialty": "Orthopedic",
+    "experience": "16 years experience",
+    "location": "Whitefield, Bangalore",
+    "clinic": "OrthoPlus Clinic",
+    "consultationFee": "₹900",
+    "rating": "90%",
+    "patientStories": 540,
+    "availableToday": false,
+    "type": "doctor"
+   
+  },
+  {
+    "id": 8,
+    "name": "Smile Dental Studio",
+    "specialty": "Dental",
+    "experience": "",
+    "location": "BTM Layout, Bangalore",
+    "clinic": "Smile Dental",
+    "consultationFee": "₹400 onwards",
+    "rating": "91%",
+    "patientStories": 430,
+    "availableToday": true,
+    "type": "clinic"
+   
+  },
+  {
+    "id": 9,
+    "name": "Dr. Sneha Kapoor",
+    "specialty": "Pediatrician",
+    "experience": "10 years experience",
+    "location": "Marathahalli, Bangalore",
+    "clinic": "ChildCare Clinic",
+    "consultationFee": "₹700",
+    "rating": "94%",
+    "patientStories": 520,
+    "availableToday": true,
+    "type": "doctor"
+    
+  },
+  {
+    "id": 10,
+    "name": "Vasan Eye Care",
+    "specialty": "Ophthalmologist",
+    "experience": "",
+    "location": "Rajajinagar, Bangalore",
+    "clinic": "Vasan",
+    "consultationFee": "₹600",
+    "rating": "89%",
+    "patientStories": 720,
+    "availableToday": true,
+    "type": "clinic"
+    
+  },
+  {
+    "id": 11,
+    "name": "Dr. Rajeev Menon",
+    "specialty": "Neurologist",
+    "experience": "22 years experience",
+    "location": "Malleshwaram, Bangalore",
+    "clinic": "NeuroWellness",
+    "consultationFee": "₹1500",
+    "rating": "96%",
+    "patientStories": 300,
+    "availableToday": false,
+    "type": "doctor"
+    
+  },
+  {
+    "id": 12,
+    "name": "Cloudnine Hospital",
+    "specialty": "Maternity",
+    "experience": "",
+    "location": "Jayanagar, Bangalore",
+    "clinic": "Cloudnine",
+    "consultationFee": "₹900 onwards",
+    "rating": "98%",
+    "patientStories": 2100,
+    "availableToday": true,
+    "type": "hospital"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Ravi Narayan",
+    "specialty": "ENT Specialist",
+    "experience": "19 years experience",
+    "location": "Koramangala, Bangalore",
+    "clinic": "ClearVoice ENT Clinic",
+    "consultationFee": "₹650",
+    "rating": "88%",
+    "patientStories": 410,
+    "availableToday": true,
+    "type": "doctor"
+    
+  },
+  {
+    "id": 14,
+    "name": "Narayana Health",
+    "specialty": "Multispecialty",
+    "experience": "",
+    "location": "Electronic City, Bangalore",
+    "clinic": "NH",
+    "consultationFee": "₹800 onwards",
+    "rating": "95%",
+    "patientStories": 3800,
+    "availableToday": true,
+    "type": "hospital"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Aarti Verma",
+    "specialty": "Psychiatrist",
+    "experience": "13 years experience",
+    "location": "Hebbal, Bangalore",
+    "clinic": "MindMatters Clinic",
+    "consultationFee": "₹900",
+    "rating": "91%",
+    "patientStories": 220,
+    "availableToday": true,
+    "type": "doctor"
+  }
+]
