@@ -28,4 +28,4 @@ npm run dev
 ```
 ## Live Link
 
-[Vercel](https://vercel.com)
+[Vercel](https://practo-sand.vercel.app/)
